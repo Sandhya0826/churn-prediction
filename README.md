@@ -1,0 +1,3 @@
+ This project aims to build a machine learning model capable of detecting fraudulent credit card transactions in real-time. With the growing number of online transactions, detecting fraudulent activities has become a critical task for financial institutions. Fraudulent transactions can lead to significant financial losses and reputational damage, so it’s essential to develop an efficient system that can identify suspicious activity quickly and accurately.
+
+The project will leverage a dataset containing historical credit card transactions, where each transaction is labeled as either fraudulent or non-fraudulent. Using various machine learning algorithms, the goal is to classify these transactions and flag those that are likely to be fraudulent.
